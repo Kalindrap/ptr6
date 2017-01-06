@@ -15,6 +15,8 @@ You can find a more in-depth description of this work in the following publicati
 
 **You can -j REJECT but you can not hide: Global scanning of the IPv6 Internet**, *Tobias Fiebig, Kevin Borgolte, Shuang Hao, Christopher Kruegel, Giovanni Vigna*, 33C3---33rd Chaos Communication Congress 2017, Hamburg
 
+A recording of the talk can be found here: https://media.ccc.de/v/33c3-8061-you_can_-j_reject_but_you_can_not_hide_global_scanning_of_the_ipv6_internet
+
 # Setup
 The supplied tools are mostly ugly Python 2.6 and even more ugly shell. Please
 give process.sh/process_traditional.sh a read and adjust the paths and variables
