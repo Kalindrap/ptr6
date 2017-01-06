@@ -53,7 +53,7 @@ output.
 
 Usage:
 ```
-extract_terminals.py $ip6.arpa_zone $DNS_Server $numeric_experiment_identifier
+./extract_terminals.py $ip6.arpa_zone $DNS_Server $numeric_experiment_identifier
 ```
 
 ## process.sh
